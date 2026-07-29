@@ -9,6 +9,7 @@ public class car {
 		System.out.println(carname);
 		System.out.println(carno);
 		System.out.println(Brand);
+		
 
 	}
 
