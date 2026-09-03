@@ -22,7 +22,6 @@ public class Employeebonus {
 		}
 		sc.close();
 		
-
 	}
 
 }

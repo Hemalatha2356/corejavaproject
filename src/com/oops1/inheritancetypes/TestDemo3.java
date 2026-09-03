@@ -1,6 +1,6 @@
-package com.logicalstatements.loops;
+package com.oops1.inheritancetypes;
 
-public class Evenodd {
+public class TestDemo3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
